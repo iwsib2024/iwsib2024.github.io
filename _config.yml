@@ -1,0 +1,121 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: IWSiB 2024
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  The 7th International Workshop on Software-intensive Business: 
+  Software Business in the era of generative artificial intelligence (IWSiB 2024) 
+  bridges the gap between software engineering and software business research.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://iwsib2024.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: iwsib
+github_username:  jekyll
+
+# Build settings
+# theme: minima
+remote_theme: "melegati/jekyll-theme-conference"
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+
+collections:
+  talks:
+    output: true
+    permalink: /:collection/:title/
+  speakers:
+    output: false
+    permalink: /:collection/:title/
+  rooms:
+    output: true
+    permalink: /:collection/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+  - scope:
+      path: ""
+      type: speakers
+    values:
+      layout: speaker
+  - scope:
+      path: ""
+      type: rooms
+    values:
+      layout: room
+
+
+conference: 
+  lang: en
+  show_errors: False
+  main:
+    logo:
+      img: 'logo_trans.png'
+  navigation:
+    links:
+      - name: Call for papers
+        relative_url: /cfp/
+      - name: Program
+        relative_url: /program/
+        disabled: true
+      - name: Organization
+        relative_url: /organization/
+      - name: History
+        relative_url: /history/
+  talks:
+    main_categories:
+      - name: Keynote
+        color: warning
+      - name: Paper
+        color: info
+      - name: Others
+        color: success
+      - name: Break
+        color: white
+  speakers:
+    show_firstname: true
+  program: 
+    url: '/program'
+    time_steps: 10
+    show_alltimes: true
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
