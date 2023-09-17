@@ -27,22 +27,28 @@ Topics of interest include, but are not limited, to the following aspects of sof
 
 ## Important Dates ##
 
-- Abstract submission: TBD
-- Paper submissions: TBD
-- Paper notifications: TBD
-- Camera-ready versions: TBD
+- Paper submissions: November 9th, 2023
+- Paper notifications: December 21st, 2023
+- Camera-ready versions: January 25th, 2024
 - Workshop: TBD
 
 
 ## Guidelines ##
 
-All submissions must conform to the TBD formatting and submission instructions. Authors should consult the author guidelines and use their proceedings templates, either for LaTeX or for Word, for the preparation of their papers. In addition, the corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form.
 
-The paper length should not exceed **8 pages**.
+The ICSE 2024 workshop proceedings will be prepared by IEEE CPS and
+published by ACM. All workshop papers must follow the ACM formatting
+instructions available at: [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template)Papers must have a maximum length of **8 pages**. It is not possible to pay for extra pages. There is no limit on the number of submissions an author may submit, but authors are advised to focus on quality rather than on quantity.
 
-There is no limit on the number of submissions an author may submit, but authors are advised to focus on quality rather than on quantity.
+By submitting your article to an ACM Publication, you are hereby acknowledging that you and your co-authors are subject to all ACM Publications Policies, including ACM’s new [Publications Policy on Research Involving Human Participants and Subjects](https://www.acm.org/publications/policies/research-involving-human-participants-and-subjects). Alleged violations of this policy or any ACM Publications Policy will be investigated by ACM and may result in a full retraction of your paper, in addition to other potential penalties, as per ACM Publications Policy.
 
-By submitting to IWSiB , authors acknowledge that they are aware of and agree that papers submitted to IWSiB must not have been published elsewhere and must not be under review or submitted for review elsewhere while under consideration for IWSiB.
+Please ensure that you and your co-authors obtain an ORCID ID, so you can complete the publishing process for your accepted paper. ACM has been involved in ORCID from the start and we have recently made a commitment to collect ORCID IDs from all of our published authors. The collection process has started and will roll out as a requirement throughout 2022. We are committed to improve author discoverability, ensure proper attribution and contribute to ongoing community efforts around name normalization; your ORCID ID will help in these efforts.
+
+The official publication date of the workshop proceedings is
+the date the proceedings are made available in the ACM Library. This
+date may be up to two weeks prior to the first day of ICSE 2024. The
+official publication date affects the deadline for any patent filings
+related to published work.
 
 Papers must be submitted electronically via by the defined deadline (see above) on the link: [https://easychair.org/conferences/?conf=iwsib2024](https://easychair.org/conferences/?conf=iwsib2024)
 

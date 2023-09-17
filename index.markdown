@@ -5,14 +5,13 @@
 layout: home
 ---
 
-The one-day workshop will be held on TBD.
+The one-day workshop will be hosted by [ICSE 2024](https://conf.researchr.org/home/icse-2024), the International Conference on Software Engineering, held in April 14-20, 2024, in Lisbon, Portugal.
 
 **Important Dates:**
 
-- Abstract submission: TBD
-- Paper submissions: TBD
-- Paper notifications: TBD
-- Camera-ready versions: TBD
+- Paper submissions: November 9th, 2023
+- Paper notifications: December 21st, 2023
+- Camera-ready versions: January 25th, 2024
 - Workshop: TBD
 
 
