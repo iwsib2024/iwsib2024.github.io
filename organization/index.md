@@ -9,7 +9,7 @@ layout: default
 ## Co-Chairs ##
   
 - **Jorge Melegati**  - Free University of Bozen-Bolzano, Italy
-- **Dimitrik Petrik** - University of Stuttgart, Germany
+- **Dimitri Petrik** - University of Stuttgart, Germany
 - **Andrey Saltan**   - LUT University, Finland
 
 
@@ -39,12 +39,11 @@ layout: default
 - **Anh Nguyen Duc** - University college of Southeast Norway
 - **Alexander Nolte** - University of Tartu
 - **Bala Ramesh** - Georgia State University
-- **Andrey Saltan** - LUT University / HSE University
 - **Rodrigo Santos** - UNIRIO
 - **Thorsten Schoormann** - University of Hildesheim
 - **Maximilian Schreieck** - Universität Innsbruck
 - **Pertti Seppänen** - University of Oulu
-- **Kari Smolander** - Lappeenranta University of Technology
+- **Kari Smolander** - LUT University
 - **Gero Strobel** - University Duisburg-Essen
 - **Pasi Tyrväinen** - University of Jyväskylä
 - **Xiaofeng Wang** - Free University of Bozen-Bolzano
