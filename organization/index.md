@@ -17,6 +17,7 @@ layout: default
 
 ## Program Committee (To be confirmed)
 
+- **Pekka Abrahamsson** - Tampere University
 - **Abdullah Aldaeej** - University of Maryland Baltimore County
 - **Jan Bosch** - Chalmers University of Technology
 - **Christoph Bussler** - Bosch
@@ -30,6 +31,7 @@ layout: default
 - **Georg Herzwurm** - University of Stuttgart
 - **Helena Holmström Olsson** - University of Malmo
 - **Sami Hyrynsalmi** - LUT University
+- **Slinger Jansen** - Utrecht University
 - **Hans-Bernd Kittlaus** - InnoTivum Consulting
 - **Eriks Klotins** - Blekinge Institute of Tecnology
 - **Tiziana Margaria** - Lero
