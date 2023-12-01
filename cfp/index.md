@@ -10,7 +10,7 @@ The emergence of large language models (LLMs) and the resultant development of g
 
 ## Submission Guidelines & Themes
 
-IWSiB seeks submissions describing novel research and emerging ideas. We are interested in studies describing original and unpublished results in the field of software-intensive business. The focus of the workshop is on new promising ideas and therefore work-in-progress reports are welcome to ignite discussion in the workshop. The paper length should not exceed 8 pages.
+IWSiB seeks submissions describing novel research and emerging ideas. We are interested in studies describing original and unpublished results in the field of software-intensive business. The focus of the workshop is on new promising ideas and therefore work-in-progress reports are welcome to ignite discussion in the workshop. The paper length should not exceed 8 pages for research papers and 4 pages for industry reports or position papers.
 Topics of interest include, but are not limited, to the following aspects of software-intensive business:
 
 - **Software product management** (e.g., strategy, planning, pricing)
@@ -38,7 +38,7 @@ Topics of interest include, but are not limited, to the following aspects of sof
 
 The ICSE 2024 workshop proceedings will be prepared by IEEE CPS and
 published by ACM. All workshop papers must follow the ACM formatting
-instructions available at: [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template)Papers must have a maximum length of **8 pages**. It is not possible to pay for extra pages. There is no limit on the number of submissions an author may submit, but authors are advised to focus on quality rather than on quantity.
+instructions available at: [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template), using the double-column format. If you are using the LaTeX template, please use _\documentclass[sigconf,review]{acmart}_. Research papers must have a maximum length of **8 pages**. Industry reports or positions papers are limited to **4 pages**. It is not possible to pay for extra pages. There is no limit on the number of submissions an author may submit, but authors are advised to focus on quality rather than on quantity.
 
 By submitting your article to an ACM Publication, you are hereby acknowledging that you and your co-authors are subject to all ACM Publications Policies, including ACM’s new [Publications Policy on Research Involving Human Participants and Subjects](https://www.acm.org/publications/policies/research-involving-human-participants-and-subjects). Alleged violations of this policy or any ACM Publications Policy will be investigated by ACM and may result in a full retraction of your paper, in addition to other potential penalties, as per ACM Publications Policy.
 
