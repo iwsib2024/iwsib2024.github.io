@@ -30,7 +30,7 @@ Topics of interest include, but are not limited, to the following aspects of sof
 - Paper submissions: December 7th, 2023
 - Paper notifications: January 11th, 2024
 - Camera-ready versions: January 25th, 2024
-- Workshop: TBD
+- Workshop: April 16th, 2024
 
 
 ## Guidelines ##
