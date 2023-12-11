@@ -18,7 +18,7 @@ layout: default
 ## Program Committee (To be confirmed)
 
 - **Pekka Abrahamsson** - Tampere University
-- **Abdullah Aldaeej** - University of Maryland Baltimore County
+- **Abdullah Aldaeej** - Imam Abdulrahman Bin Faisal University
 - **Jan Bosch** - Chalmers University of Technology
 - **Christoph Bussler** - Bosch
 - **Henry Edison** - Blekinge Institute of Technology
@@ -32,6 +32,7 @@ layout: default
 - **Helena Holmström Olsson** - University of Malmo
 - **Sami Hyrynsalmi** - LUT University
 - **Slinger Jansen** - Utrecht University
+- **Dron Khanna** - Free University of Bozen-Bolzano
 - **Hans-Bernd Kittlaus** - InnoTivum Consulting
 - **Eriks Klotins** - Blekinge Institute of Tecnology
 - **Tiziana Margaria** - Lero
