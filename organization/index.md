@@ -50,5 +50,6 @@ layout: default
 - **Gero Strobel** - University Duisburg-Essen
 - **Pasi Tyrväinen** - University of Jyväskylä
 - **Xiaofeng Wang** - Free University of Bozen-Bolzano
+- **Karl Werder** - University of Cologne
 - **Krzysztof Wnuk** - BTH
 - **Luciana Zaina** - UFSCar
