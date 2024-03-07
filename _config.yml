@@ -77,7 +77,6 @@ conference:
         relative_url: /cfp/
       - name: Program
         relative_url: /program/
-        disabled: true
       - name: Organization
         relative_url: /organization/
       - name: History
