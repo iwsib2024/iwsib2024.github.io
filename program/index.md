@@ -19,16 +19,16 @@ Coffee break
 ##### Session: AI & Software-intensive business #####
 
 11:00 - 11:20  
+**How To Get Good At Data: 5 Steps**  
+*Helena Holmström Olsson and Jan Bosch*
+
+11:20 - 11:40  
 **Artificial Intelligence in the Public Sector -- An Agenda for Responsible Innovation through Learning**  
 *Leif Z Knutsen, Jo E Hannay and Michael A Riegler*
 
-11:20 - 11:40  
+11:40 - 12:00  
 **Human-AI Collaboration in Software Engineering: Lessons Learned from a Hands-On Workshop**  
 *Muhammad Hamza, Dominik Siemon, Muhammad Azeem Akbar and Tahsinur Rahman*
-
-11:40 - 12:00  
-**Towards stability, predictability, and quality of intelligent automation services: ECIT product journey from on-premise to as-a-service**  
-*Damian Kedziora, Dominik Siemon, Edona Elshan and Monika Sońta*
 
 12:00 - 12:20  
 **Researchers’ Concerns on Artificial Intelligence Ethics: Results from a Scenario-Based Survey**  
@@ -40,8 +40,8 @@ Lunch break
 ##### Session: Agile & software-intensive business #####
 
 14:00 - 14:20  
-**How To Get Good At Data: 5 Steps**  
-*Helena Holmström Olsson and Jan Bosch*
+**Towards stability, predictability, and quality of intelligent automation services: ECIT product journey from on-premise to as-a-service**  
+*Damian Kedziora, Dominik Siemon, Edona Elshan and Monika Sońta*
 
 14:20 - 14:40  
 **Developing a Taxonomy for Agile Scaling Frameworks**  
